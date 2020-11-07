@@ -105,5 +105,3 @@ https://blog.kireev.pro/2017/07/%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B
   - sdjournal
   - sshdump
   - udpdump
-
-4.
