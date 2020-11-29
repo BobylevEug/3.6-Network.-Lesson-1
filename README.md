@@ -1,4 +1,4 @@
-# Network.-Lesson-1
+# 3.6 Network.-Lesson-1
 
 ## 2. WI-Fi
 
